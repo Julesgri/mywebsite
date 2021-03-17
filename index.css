@@ -1,0 +1,23 @@
+.container {
+  background-color: rgb(245, 235, 215);
+  margin-left: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  border-style: solid;
+  border-color: #f36fb1;
+  width: 75%;
+  position: relative;
+}
+body {
+  font-family:  Arial, Helvetica, sans-serif;
+}
+h1,
+p {
+  text-align: center;
+}
+h4 {
+  margin-left: 2%;
+}
+mark {
+  background-color: #F0F8FF;
+}
